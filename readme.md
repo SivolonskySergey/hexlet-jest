@@ -1,1 +1,3 @@
 [![Build Status](https://travis-ci.com/SivolonskySergey/hexlet-jest.svg?branch=main)](https://travis-ci.com/SivolonskySergey/hexlet-jest)
+[![Maintainability](https://api.codeclimate.com/v1/badges/f0688da1ce2c98f9246d/maintainability)](https://codeclimate.com/github/SivolonskySergey/hexlet-jest/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/f0688da1ce2c98f9246d/test_coverage)](https://codeclimate.com/github/SivolonskySergey/hexlet-jest/test_coverage)

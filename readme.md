@@ -1,13 +1,1 @@
-No code No pain
-experimentwith amend
-fffffffff tqwutwtihgwkjd suka
-a ya vas znaiy hehehehehe
-test test
-how are yo? babe
-pula asjdksdjk
-pula asjdksdj d w  11232 k
-/ну давай блять переносись
-я присяду?f f f f
- 
- ну ладна блять
-вяяяяяяяя параша РАБОТАЙ
+[![Build Status](https://travis-ci.com/SivolonskySergey/hexlet-jest.svg?branch=main)](https://travis-ci.com/SivolonskySergey/hexlet-jest)
